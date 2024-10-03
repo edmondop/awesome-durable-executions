@@ -50,6 +50,7 @@ Some of this examples are available in multiple programming languages, for simpl
 
 - [Azure - Create a Durable Functions App (C#, Javascript, TypeScript, Python, Powershell)](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-isolated-create-first-csharp?pivots=code-editor-vscode)
 - [Golem Quickstart](https://learn.golem.cloud/docs/quickstart)
+- [Restate examples](https://github.com/restatedev/examples)
 - [Temporal - Code Samples (Java, Go, Python, Typescript)](https://github.com/temporalio/samples-java)
 - [Temporal - Order Management Reference Application](https://temporal.io/blog/oms-a-temporal-reference-application-for-order-management-systems)
 - [Your first Functions (Ingest)](https://www.inngest.com/docs/learn/inngest-functions)
