@@ -56,6 +56,7 @@ Some of this examples are available in multiple programming languages, for simpl
 
 # Blog posts, videos and other resources
 
+- [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
 - [Enabling Faster Financial Partnership Integrations Using Cadence at Doordash](https://careers.doordash.com/blog/enabling-faster-financial-partnership-integrations-using-cadence/)
 - [Ensuring Deterministic Execution in Modern Language Runtimes](https://www.youtube.com/watch?v=ZEN6m27JIrg)
 - [How Netflix uses Temporal](https://temporal.io/resources/on-demand/netflix)
