@@ -54,6 +54,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Temporal - Code Samples (Java, Go, Python, Typescript)](https://github.com/temporalio/samples-java)
 - [Temporal - Order Management Reference Application](https://temporal.io/blog/oms-a-temporal-reference-application-for-order-management-systems)
 - [Your first Functions (Ingest)](https://www.inngest.com/docs/learn/inngest-functions)
+- [KitteHub - AutoKitteh Examples](https://github.com/autokitteh/kittehub)
 
 # Blog posts, videos and other resources
 
@@ -62,6 +63,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Ensuring Deterministic Execution in Modern Language Runtimes](https://www.youtube.com/watch?v=ZEN6m27JIrg)
 - [How Netflix uses Temporal](https://temporal.io/resources/on-demand/netflix)
 - [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable/)
+- [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
 
 # Community extensions and tooling
 
@@ -73,3 +75,4 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Golem Discord Channel](https://discord.com/invite/UjXeH8uG4x)
 - [Restate Discord Channel](https://discord.com/invite/skW3AZ6uGd)
 - [Temporal Slack channel](https://t.mp/slack)
+- [AutoKitteh Discord)(https://discord.com/invite/UhnJuBarZQ)
