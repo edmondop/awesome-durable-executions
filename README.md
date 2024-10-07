@@ -75,4 +75,4 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Golem Discord Channel](https://discord.com/invite/UjXeH8uG4x)
 - [Restate Discord Channel](https://discord.com/invite/skW3AZ6uGd)
 - [Temporal Slack channel](https://t.mp/slack)
-- [AutoKitteh Discord)(https://discord.com/invite/UhnJuBarZQ)
+- [AutoKitteh Discord](https://discord.com/invite/UhnJuBarZQ)
