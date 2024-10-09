@@ -25,7 +25,7 @@ if you prefer)
 # How Durable Executions works?
 
 - [10 Reasons to use Durable Functions](https://markheath.net/post/10-reasons-durable-functions)
-- [How Inggest functions are executed: Durable execution](https://www.inngest.com/docs/learn/how-functions-are-executed)
+- [How Inngest functions are executed: Durable execution](https://www.inngest.com/docs/learn/how-functions-are-executed)
 - [Temporal Decoded: How it works](https://temporal.io/how-it-works)
 - [What is Durable Computing](https://www.golem.cloud/post/what-is-durable-computing)
 - [Why Your Application Need Durable Execution](https://orkes.io/blog/why-your-applications-need-durable-execution/)
