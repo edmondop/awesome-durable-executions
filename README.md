@@ -62,8 +62,9 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Enabling Faster Financial Partnership Integrations Using Cadence at Doordash](https://careers.doordash.com/blog/enabling-faster-financial-partnership-integrations-using-cadence/)
 - [Ensuring Deterministic Execution in Modern Language Runtimes](https://www.youtube.com/watch?v=ZEN6m27JIrg)
 - [How Netflix uses Temporal](https://temporal.io/resources/on-demand/netflix)
-- [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable/)
+- [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable[/)]
 - [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
+- [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
 
 # Community extensions and tooling
 
