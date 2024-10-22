@@ -15,6 +15,7 @@ if you prefer)
 - [Golem](https://golem.cloud/)
 - [Infinitic](https://infinitic.io/)
 - [Inngest](https://www.inngest.com/)
+- [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
 - [Temporal](https://temporal.io/)
 
