@@ -22,6 +22,7 @@ if you prefer)
 # Higher level products built on top of Durable Executions
 
 - [Autokitteh](https://autokitteh.com/)
+- [Quarkus Temporal](https://github.com/quarkiverse/quarkus-temporal)
 
 # How Durable Executions works?
 
@@ -56,6 +57,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Temporal - Order Management Reference Application](https://temporal.io/blog/oms-a-temporal-reference-application-for-order-management-systems)
 - [Your first Functions (Ingest)](https://www.inngest.com/docs/learn/inngest-functions)
 - [KitteHub - AutoKitteh Examples](https://github.com/autokitteh/kittehub)
+- [Quarkus Temporal Petstore](https://github.com/melloware/quarkus-temporal-petstore)
 
 # Blog posts, videos and other resources
 
@@ -67,6 +69,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
 - [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
 - [Distributed Asynchronous Await • A new programming model for distributed applications - by D. Tornow]( https://youtu.be/hofEKFZtBj8?si=io6OTVU0g8OM19M2)
+- [Quarkus Temporal YouTube](https://youtu.be/XICZxuaeYwI)
 
 # Community extensions and tooling
 
