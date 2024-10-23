@@ -66,6 +66,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable[/)]
 - [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
 - [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
+- [Distributed Asynchronous Await • A new programming model for distributed applications - by D. Tornow]( https://youtu.be/hofEKFZtBj8?si=io6OTVU0g8OM19M2)
 
 # Community extensions and tooling
 
@@ -78,3 +79,4 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Restate Discord Channel](https://discord.com/invite/skW3AZ6uGd)
 - [Temporal Slack channel](https://t.mp/slack)
 - [AutoKitteh Discord](https://discord.com/invite/UhnJuBarZQ)
+- [Resonate Discord](https://resonatehq.io/discord)
