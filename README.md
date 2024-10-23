@@ -22,7 +22,7 @@ if you prefer)
 # Higher level products built on top of Durable Executions
 
 - [Autokitteh](https://autokitteh.com/)
-- [Quarkus Temporal](https://autokitteh.com/)
+- [Quarkus Temporal](https://github.com/quarkiverse/quarkus-temporal)
 
 # How Durable Executions works?
 
