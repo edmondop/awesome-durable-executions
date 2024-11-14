@@ -18,6 +18,7 @@ if you prefer)
 - [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
 - [Temporal](https://temporal.io/)
+- [Cloudflare] (https://blog.cloudflare.com/building-workflows-durable-execution-on-workers/)
 
 # Higher level products built on top of Durable Executions
 
