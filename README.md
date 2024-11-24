@@ -8,6 +8,7 @@ if you prefer)
 - [AWS Simple Workflow Service](https://aws.amazon.com/swf/)
 - [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
 - [Cadence](https://cadenceworkflow.io/)
+- [Cloudflare](https://blog.cloudflare.com/building-workflows-durable-execution-on-workers/)
 - [Conductor](https://conductor-oss.org/)
 - [Dapr](https://dapr.io/)
 - [Dispatch](https://dispatch.run/)
@@ -18,7 +19,6 @@ if you prefer)
 - [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
 - [Temporal](https://temporal.io/)
-- [Cloudflare] (https://blog.cloudflare.com/building-workflows-durable-execution-on-workers/)
 
 # Higher level products built on top of Durable Executions
 
@@ -63,10 +63,13 @@ Some of this examples are available in multiple programming languages, for simpl
 # Blog posts, videos and other resources
 
 - [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
+- [Durable Computing YouTube](https://youtube.com/@durablecomputing)
+- [Durable Execution: Justifying the Bubble - Chris Riccomini](https://materializedview.io/p/durable-execution-justifying-the-bubble)
+- [The Emerging Landscape of Durable Computing - John A. De Goes](https://www.golem.cloud/post/the-emerging-landscape-of-durable-computing)
 - [Enabling Faster Financial Partnership Integrations Using Cadence at Doordash](https://careers.doordash.com/blog/enabling-faster-financial-partnership-integrations-using-cadence/)
 - [Ensuring Deterministic Execution in Modern Language Runtimes](https://www.youtube.com/watch?v=ZEN6m27JIrg)
 - [How Netflix uses Temporal](https://temporal.io/resources/on-demand/netflix)
-- [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable[/)]
+- [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable[/)
 - [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
 - [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
 - [Distributed Asynchronous Await • A new programming model for distributed applications - by D. Tornow]( https://youtu.be/hofEKFZtBj8?si=io6OTVU0g8OM19M2)
@@ -79,6 +82,7 @@ Some of this examples are available in multiple programming languages, for simpl
 # Online communities
 
 - [Cadence Slack Channel](http://t.uber.com/cadence-slack)
+- [Dapr Community](https://dapr.io/community/)
 - [Golem Discord Channel](https://discord.com/invite/UjXeH8uG4x)
 - [Restate Discord Channel](https://discord.com/invite/skW3AZ6uGd)
 - [Temporal Slack channel](https://t.mp/slack)
