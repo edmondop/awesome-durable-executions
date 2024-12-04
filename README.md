@@ -11,6 +11,7 @@ if you prefer)
 - [Cloudflare](https://blog.cloudflare.com/building-workflows-durable-execution-on-workers/)
 - [Conductor](https://conductor-oss.org/)
 - [Dapr](https://dapr.io/)
+- [DBOS](https://www.dbos.dev/)
 - [Dispatch](https://dispatch.run/)
 - [Flawless](https://flawless.run/)
 - [Golem](https://golem.cloud/)
@@ -34,6 +35,7 @@ if you prefer)
 - [Why Your Application Need Durable Execution](https://orkes.io/blog/why-your-applications-need-durable-execution/)
 - [Why we built Restate](https://restate.dev/blog/why-we-built-restate/)
 - [Why Golem](https://learn.golem.cloud/docs/why-golem)
+- [DBOS - Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 
 # Tutorial and courses
 
@@ -41,6 +43,7 @@ if you prefer)
 - [Temporal 101: Introducing the Temporal Platform](https://learn.temporal.io/courses/temporal_101/)
 - [Temporal 102: Exploring Durable Executions](https://learn.temporal.io/courses/temporal_102/)
 - [Tour of Restate](https://docs.restate.dev/get_started/tour/)
+- [Learn DBOS Python](https://docs.dbos.dev/python/programming-guide)
 
 # Conferences
 
@@ -59,6 +62,8 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Your first Functions (Ingest)](https://www.inngest.com/docs/learn/inngest-functions)
 - [KitteHub - AutoKitteh Examples](https://github.com/autokitteh/kittehub)
 - [Quarkus Temporal Petstore](https://github.com/melloware/quarkus-temporal-petstore)
+- [Get Started with DBOS](https://docs.dbos.dev/quickstart)
+- [DBOS Examples](https://docs.dbos.dev/examples)
 
 # Blog posts, videos and other resources
 
@@ -74,6 +79,8 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
 - [Distributed Asynchronous Await • A new programming model for distributed applications - by D. Tornow]( https://youtu.be/hofEKFZtBj8?si=io6OTVU0g8OM19M2)
 - [Quarkus Temporal YouTube](https://youtu.be/XICZxuaeYwI)
+- [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/)
+- [Exactly-Once Event Processing Made Easy with Apache Kafka and DBOS](https://www.dbos.dev/blog/exactly-once-apache-kafka-processing)
 
 # Community extensions and tooling
 
@@ -88,3 +95,4 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Temporal Slack channel](https://t.mp/slack)
 - [AutoKitteh Discord](https://discord.com/invite/UhnJuBarZQ)
 - [Resonate Discord](https://resonatehq.io/discord)
+- [DBOS Discord Server](https://discord.com/invite/jsmC6pXGgX)
