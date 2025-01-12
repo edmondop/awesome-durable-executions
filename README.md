@@ -36,6 +36,8 @@ if you prefer)
 - [Why we built Restate](https://restate.dev/blog/why-we-built-restate/)
 - [Why Golem](https://learn.golem.cloud/docs/why-golem)
 - [DBOS - Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
+- [Principles of Durable Executions](https://www.inngest.com/blog/principles-of-durable-execution)
+- [Durable Executions versus Session Backends](https://crabmusket.net/2024/durable-execution-versus-session-backends/)
 
 # Tutorial and courses
 
