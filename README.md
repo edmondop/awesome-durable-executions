@@ -83,7 +83,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Quarkus Temporal YouTube](https://youtu.be/XICZxuaeYwI)
 - [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/)
 - [Exactly-Once Event Processing Made Easy with Apache Kafka and DBOS](https://www.dbos.dev/blog/exactly-once-apache-kafka-processing)
-- [Persistent Serverless State Machines with XState and Restate] https://restate.dev/blog/persistent-serverless-state-machines-with-xstate-and-restate/
+- [Persistent Serverless State Machines with XState and Restate](https://restate.dev/blog/persistent-serverless-state-machines-with-xstate-and-restate/)
 
 # Community extensions and tooling
 
