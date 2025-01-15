@@ -99,3 +99,4 @@ Some of this examples are available in multiple programming languages, for simpl
 - [AutoKitteh Discord](https://discord.com/invite/UhnJuBarZQ)
 - [Resonate Discord](https://resonatehq.io/discord)
 - [DBOS Discord Server](https://discord.com/invite/jsmC6pXGgX)
+- [Inngest](https://www.inngest.com/discord)
