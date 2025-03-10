@@ -84,6 +84,8 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/)
 - [Exactly-Once Event Processing Made Easy with Apache Kafka and DBOS](https://www.dbos.dev/blog/exactly-once-apache-kafka-processing)
 - [Persistent Serverless State Machines with XState and Restate](https://restate.dev/blog/persistent-serverless-state-machines-with-xstate-and-restate/)
+- [Understanding Durable Executions in Hatchet](https://docs.hatchet.run/home/features/durable-execution)
+- [The Anatomy of a Durable Execution From First Principles](https://restate.dev/blog/the-anatomy-of-a-durable-execution-stack-from-first-principles/)
 
 # Community extensions and tooling
 
