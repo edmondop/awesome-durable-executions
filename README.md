@@ -86,6 +86,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Persistent Serverless State Machines with XState and Restate](https://restate.dev/blog/persistent-serverless-state-machines-with-xstate-and-restate/)
 - [Understanding Durable Executions in Hatchet](https://docs.hatchet.run/home/features/durable-execution)
 - [The Anatomy of a Durable Execution From First Principles](https://restate.dev/blog/the-anatomy-of-a-durable-execution-stack-from-first-principles/)
+- [The Rise of Durable Execution Engine from Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
 
 # Community extensions and tooling
 
