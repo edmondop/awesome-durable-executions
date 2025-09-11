@@ -70,6 +70,7 @@ Some of this examples are available in multiple programming languages, for simpl
 # Blog posts, videos and other resources
 
 - [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
+- [How I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
 - [Durable Computing YouTube](https://youtube.com/@durablecomputing)
 - [Durable Execution: Justifying the Bubble - Chris Riccomini](https://materializedview.io/p/durable-execution-justifying-the-bubble)
 - [The Emerging Landscape of Durable Computing - John A. De Goes](https://www.golem.cloud/post/the-emerging-landscape-of-durable-computing)
