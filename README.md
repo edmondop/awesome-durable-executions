@@ -46,6 +46,7 @@ if you prefer)
 - [Temporal 102: Exploring Durable Executions](https://learn.temporal.io/courses/temporal_102/)
 - [Tour of Restate](https://docs.restate.dev/get_started/tour/)
 - [Learn DBOS Python](https://docs.dbos.dev/python/programming-guide)
+- [Dapr Workflow: Use durable execution to build reliable distributed applications](https://www.diagrid.io/dapr-university#dapr-workflow)
 
 # Conferences
 
@@ -66,6 +67,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Quarkus Temporal Petstore](https://github.com/melloware/quarkus-temporal-petstore)
 - [Get Started with DBOS](https://docs.dbos.dev/quickstart)
 - [DBOS Examples](https://docs.dbos.dev/examples)
+- [Dapr Quickstarts: Workflow](https://github.com/dapr/quickstarts/tree/master/tutorials/workflow)
 
 # Blog posts, videos and other resources
 
@@ -88,6 +90,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Understanding Durable Executions in Hatchet](https://docs.hatchet.run/home/features/durable-execution)
 - [The Anatomy of a Durable Execution From First Principles](https://restate.dev/blog/the-anatomy-of-a-durable-execution-stack-from-first-principles/)
 - [The Rise of Durable Execution Engine from Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
+- [An in-depth guide to Dapr workflow patterns in .NET](https://www.diagrid.io/blog/in-depth-guide-to-dapr-workflow-patterns)
 
 # Community extensions and tooling
 
