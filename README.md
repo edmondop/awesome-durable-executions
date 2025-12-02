@@ -34,14 +34,14 @@ if you prefer)
 - [What is Durable Computing](https://www.golem.cloud/post/what-is-durable-computing)
 - [Why Your Application Need Durable Execution](https://orkes.io/blog/why-your-applications-need-durable-execution/)
 - [Why we built Restate](https://restate.dev/blog/why-we-built-restate/)
-- [Why Golem](https://learn.golem.cloud/docs/why-golem)
+- [Why Golem](https://learn.golem.cloud/why-golem)
 - [DBOS - Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 - [Principles of Durable Executions](https://www.inngest.com/blog/principles-of-durable-execution)
 - [Durable Executions versus Session Backends](https://crabmusket.net/2024/durable-execution-versus-session-backends/)
 
 # Tutorial and courses
 
-- [Golem fundamentals](https://learn.golem.cloud/docs/fundamentals)
+- [Golem fundamentals](https://learn.golem.cloud/fundamentals)
 - [Temporal 101: Introducing the Temporal Platform](https://learn.temporal.io/courses/temporal_101/)
 - [Temporal 102: Exploring Durable Executions](https://learn.temporal.io/courses/temporal_102/)
 - [Tour of Restate](https://docs.restate.dev/get_started/tour/)
@@ -58,7 +58,7 @@ if you prefer)
 Some of this examples are available in multiple programming languages, for simplicity we link only one of them
 
 - [Azure - Create a Durable Functions App (C#, Javascript, TypeScript, Python, Powershell)](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-isolated-create-first-csharp?pivots=code-editor-vscode)
-- [Golem Quickstart](https://learn.golem.cloud/docs/quickstart)
+- [Golem Quickstart](https://learn.golem.cloud/quickstart)
 - [Restate examples](https://github.com/restatedev/examples)
 - [Temporal - Code Samples (Java, Go, Python, Typescript)](https://github.com/temporalio/samples-java)
 - [Temporal - Order Management Reference Application](https://temporal.io/blog/oms-a-temporal-reference-application-for-order-management-systems)
