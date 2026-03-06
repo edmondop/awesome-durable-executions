@@ -5,6 +5,7 @@ if you prefer)
 
 # Available implementations
 
+- [AWS Durable Lambda](https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html)
 - [AWS Simple Workflow Service](https://aws.amazon.com/swf/)
 - [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
 - [Cadence](https://cadenceworkflow.io/)
