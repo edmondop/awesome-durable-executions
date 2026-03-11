@@ -73,13 +73,11 @@ Some of this examples are available in multiple programming languages, for simpl
 
 - [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
 - [How I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
-- [Durable Computing YouTube](https://youtube.com/@durablecomputing)
 - [Durable Execution: Justifying the Bubble - Chris Riccomini](https://materializedview.io/p/durable-execution-justifying-the-bubble)
 - [The Emerging Landscape of Durable Computing - John A. De Goes](https://www.golem.cloud/post/the-emerging-landscape-of-durable-computing)
 - [Enabling Faster Financial Partnership Integrations Using Cadence at Doordash](https://careers.doordash.com/blog/enabling-faster-financial-partnership-integrations-using-cadence/)
 - [Ensuring Deterministic Execution in Modern Language Runtimes](https://www.youtube.com/watch?v=ZEN6m27JIrg)
 - [How Netflix uses Temporal](https://temporal.io/resources/on-demand/netflix)
-- [We replaced 400 lines of StepFunctions ASL with 40 lines of TypeScript making Lambdas suspendable](https://restate.dev/blog/we-replaced-400-lines-of-stepfunctions-asl-with-40-lines-of-typescript-by-making-lambdas-suspendable[/)
 - [AutoKitteh YouTube](https://www.youtube.com/@autokitteh-mo5sb)
 - [Improving Platform Resilience At Cloudflare (with Temporal)](https://blog.cloudflare.com/improving-platform-resilience-at-cloudflare/)
 - [Distributed Asynchronous Await • A new programming model for distributed applications - by D. Tornow]( https://youtu.be/hofEKFZtBj8?si=io6OTVU0g8OM19M2)
@@ -88,7 +86,6 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Exactly-Once Event Processing Made Easy with Apache Kafka and DBOS](https://www.dbos.dev/blog/exactly-once-apache-kafka-processing)
 - [Persistent Serverless State Machines with XState and Restate](https://restate.dev/blog/persistent-serverless-state-machines-with-xstate-and-restate/)
 - [Understanding Durable Executions in Hatchet](https://docs.hatchet.run/home/features/durable-execution)
-- [The Anatomy of a Durable Execution From First Principles](https://restate.dev/blog/the-anatomy-of-a-durable-execution-stack-from-first-principles/)
 - [The Rise of Durable Execution Engine from Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
 - [An in-depth guide to Dapr workflow patterns in .NET](https://www.diagrid.io/blog/in-depth-guide-to-dapr-workflow-patterns)
 
