@@ -31,9 +31,11 @@ if you prefer)
 - [10 Reasons to use Durable Functions](https://markheath.net/post/10-reasons-durable-functions)
 - [How Inngest functions are executed: Durable execution](https://www.inngest.com/docs/learn/how-functions-are-executed)
 - [Temporal Decoded: How it works](https://temporal.io/how-it-works)
+- [Temporal Service (Architecture Description)](https://docs.temporal.io/temporal-service)
 - [What is Durable Computing](https://www.golem.cloud/post/what-is-durable-computing)
 - [Why Your Application Need Durable Execution](https://orkes.io/blog/why-your-applications-need-durable-execution/)
 - [Why we built Restate](https://restate.dev/blog/why-we-built-restate/)
+- [Restate Architecture](https://docs.restate.dev/references/architecture)
 - [Why Golem](https://learn.golem.cloud/why-golem)
 - [DBOS - Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 - [Principles of Durable Executions](https://www.inngest.com/blog/principles-of-durable-execution)
@@ -88,6 +90,7 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Understanding Durable Executions in Hatchet](https://docs.hatchet.run/home/features/durable-execution)
 - [The Rise of Durable Execution Engine from Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
 - [An in-depth guide to Dapr workflow patterns in .NET](https://www.diagrid.io/blog/in-depth-guide-to-dapr-workflow-patterns)
+- [SE Radio 681: Qian Li on DBOS Durable Execution/Serverless Computing Platform](https://www.youtube.com/watch?v=Vq7KErd5UrE)
 
 # Community extensions and tooling
 
