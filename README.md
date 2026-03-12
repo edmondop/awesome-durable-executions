@@ -91,6 +91,8 @@ Some of this examples are available in multiple programming languages, for simpl
 - [The Rise of Durable Execution Engine from Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
 - [An in-depth guide to Dapr workflow patterns in .NET](https://www.diagrid.io/blog/in-depth-guide-to-dapr-workflow-patterns)
 - [SE Radio 681: Qian Li on DBOS Durable Execution/Serverless Computing Platform](https://www.youtube.com/watch?v=Vq7KErd5UrE)
+- [SE Radio 596: Maxim Fateev on Durable Execution with Temporal](https://se-radio.net/2023/12/se-radio-596-maxim-fateev-on-durable-execution-with-temporalse-radio-596/)
+- [Temporal: Designing a Workflow Engine from First Principles](https://www.youtube.com/watch?v=t524U9CixZ0)
 
 # Community extensions and tooling
 
