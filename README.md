@@ -100,6 +100,7 @@ Some of this examples are available in multiple programming languages, for simpl
 # Community extensions and tooling
 
 - [Temporal Large Payload Codec by DataDog](https://github.com/DataDog/temporal-large-payload-codec)
+- [LedgerGuard - plan-bound approvals and execution keys so retried AI-agent side effects do not run twice (TypeScript, Postgres, pre-1.0)](https://github.com/Val1-IT/Arvanta-Ledgerguard)
 
 # Online communities
 
