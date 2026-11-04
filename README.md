@@ -21,6 +21,7 @@ if you prefer)
 - [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
 - [Temporal](https://temporal.io/)
+- [Workhorse](https://workhorse.run/)
 
 # Higher level products built on top of Durable Executions
 
