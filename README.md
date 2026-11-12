@@ -21,7 +21,9 @@ if you prefer)
 - [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
 - [rewindable](https://github.com/milad-ahmd/rewindable)
+- [Submilli](https://submilli.ai/)
 - [Temporal](https://temporal.io/)
+- [Workhorse](https://workhorse.run/)
 
 # Higher level products built on top of Durable Executions
 
@@ -42,6 +44,7 @@ if you prefer)
 - [DBOS - Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 - [Principles of Durable Executions](https://www.inngest.com/blog/principles-of-durable-execution)
 - [Durable Executions versus Session Backends](https://crabmusket.net/2024/durable-execution-versus-session-backends/)
+- [What is Durable Execution?](https://www.resonatehq.io/durable-execution)
 
 # Tutorial and courses
 
@@ -51,6 +54,7 @@ if you prefer)
 - [Tour of Restate](https://docs.restate.dev/get_started/tour/)
 - [Learn DBOS Python](https://docs.dbos.dev/python/programming-guide)
 - [Dapr Workflow: Use durable execution to build reliable distributed applications](https://www.diagrid.io/dapr-university#dapr-workflow)
+- [Resonate Quickstart](https://docs.resonatehq.io/get-started/quickstart)
 
 # Conferences
 
@@ -72,8 +76,11 @@ Some of this examples are available in multiple programming languages, for simpl
 - [Get Started with DBOS](https://docs.dbos.dev/quickstart)
 - [DBOS Examples](https://docs.dbos.dev/examples)
 - [Dapr Quickstarts: Workflow](https://github.com/dapr/quickstarts/tree/master/tutorials/workflow)
+- [Resonate examples](https://github.com/resonatehq-examples)
 
 # Blog posts, videos and other resources
+
+- [Durable execution for AI agents: a vendor-neutral guide](https://durableexecutionguide.com/durable-execution-for-ai-agents) - What a durable execution engine records, where six of them keep it, and what an agent's run resumes from when the record is a git branch.
 
 - [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
 - [How I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
@@ -97,10 +104,12 @@ Some of this examples are available in multiple programming languages, for simpl
 - [SE Radio 681: Qian Li on DBOS Durable Execution/Serverless Computing Platform](https://www.youtube.com/watch?v=Vq7KErd5UrE)
 - [SE Radio 596: Maxim Fateev on Durable Execution with Temporal](https://se-radio.net/2023/12/se-radio-596-maxim-fateev-on-durable-execution-with-temporalse-radio-596/)
 - [Temporal: Designing a Workflow Engine from First Principles](https://www.youtube.com/watch?v=t524U9CixZ0)
+- [Deterministic Simulation Testing](https://journal.resonatehq.io/p/deterministic-simulation-testing)
 
 # Community extensions and tooling
 
 - [Temporal Large Payload Codec by DataDog](https://github.com/DataDog/temporal-large-payload-codec)
+- [LedgerGuard - plan-bound approvals and execution keys so retried AI-agent side effects do not run twice (TypeScript, Postgres, pre-1.0)](https://github.com/Val1-IT/Arvanta-Ledgerguard)
 
 # Online communities
 
