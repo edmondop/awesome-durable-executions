@@ -22,6 +22,7 @@ if you prefer)
 - [Restate](https://restate.dev)
 - [Submilli](https://submilli.ai/)
 - [Temporal](https://temporal.io/)
+- [Workhorse](https://workhorse.run/)
 
 # Higher level products built on top of Durable Executions
 
