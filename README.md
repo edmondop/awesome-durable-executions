@@ -78,6 +78,8 @@ Some of this examples are available in multiple programming languages, for simpl
 
 # Blog posts, videos and other resources
 
+- [Durable execution for AI agents: a vendor-neutral guide](https://durableexecutionguide.com/durable-execution-for-ai-agents) - What a durable execution engine records, where six of them keep it, and what an agent's run resumes from when the record is a git branch.
+
 - [Awesome Temporal](https://github.com/temporalio/awesome-temporal)
 - [How I solved a distributed queue problem after 15 years](https://www.dbos.dev/blog/durable-queues)
 - [Durable Execution: Justifying the Bubble - Chris Riccomini](https://materializedview.io/p/durable-execution-justifying-the-bubble)
