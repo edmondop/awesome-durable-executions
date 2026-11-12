@@ -20,6 +20,7 @@ if you prefer)
 - [Kitaru](https://kitaru.ai/)
 - [Resonate](https://resonatehq.io/)
 - [Restate](https://restate.dev)
+- [Submilli](https://submilli.ai/)
 - [Temporal](https://temporal.io/)
 
 # Higher level products built on top of Durable Executions
