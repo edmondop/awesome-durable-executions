@@ -28,6 +28,7 @@ if you prefer)
 # Higher level products built on top of Durable Executions
 
 - [Autokitteh](https://autokitteh.com/)
+- [Diagrid](https://www.diagrid.io/platform)
 - [Quarkus Temporal](https://github.com/quarkiverse/quarkus-temporal)
 
 # How Durable Executions works?
@@ -110,6 +111,7 @@ Some of this examples are available in multiple programming languages, for simpl
 
 - [Temporal Large Payload Codec by DataDog](https://github.com/DataDog/temporal-large-payload-codec)
 - [LedgerGuard - plan-bound approvals and execution keys so retried AI-agent side effects do not run twice (TypeScript, Postgres, pre-1.0)](https://github.com/Val1-IT/Arvanta-Ledgerguard)
+- [Diagrid agent integrations](https://docs.dapr.io/developing-ai/agent-integrations/) - run AI agents as Dapr Workflows so a run resumes after a crash; packages for Microsoft Agent Framework (.NET), LangGraph, Deep Agents, Strands Agents, CrewAI, Google ADK, Claude Agent SDK, OpenAI Agents SDK, Pydantic AI and HolmesGPT (commercial, BSL 1.1).
 
 # Online communities
 
